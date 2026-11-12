@@ -5,7 +5,7 @@
 [![Validate Skill](https://github.com/1998x-stack/Elon-Musk-Communication/actions/workflows/validate.yml/badge.svg)](https://github.com/1998x-stack/Elon-Musk-Communication/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](LICENSE)
 
-[English](README.md) · **简体中文** · [快速安装](#快速安装) · [沟通决策流程](#沟通决策流程) · [skill-架构](#skill-架构) · [案例库](EXAMPLES.md) · [证据来源](skills/elon-musk-communication/references/evidence-and-attribution.md)
+[English](README.md) · **简体中文** · [知乎深度文章](articles/zhihu/2026-11-12-three-sentence-emails-fast-bad-news.md) · [快速安装](#快速安装) · [沟通决策流程](#沟通决策流程) · [skill-架构](#skill-架构) · [案例库](EXAMPLES.md) · [证据来源](skills/elon-musk-communication/references/evidence-and-attribution.md)
 
 > **一封好的汇报邮件，应该让收件人迅速理解事实、判断影响、执行下一步。** 简洁不是目的；及时、准确、可执行才是目的。
 

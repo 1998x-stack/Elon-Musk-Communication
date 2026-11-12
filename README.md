@@ -5,7 +5,7 @@
 [![Validate Skill](https://github.com/1998x-stack/Elon-Musk-Communication/actions/workflows/validate.yml/badge.svg)](https://github.com/1998x-stack/Elon-Musk-Communication/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](LICENSE)
 
-**English** · [简体中文](README.zh.md) · [Get started](#quick-start) · [Communication workflow](#decision-workflow) · [Architecture](#agent-skill-architecture) · [Examples](EXAMPLES.md) · [Attribution](skills/elon-musk-communication/references/evidence-and-attribution.md)
+**English** · [简体中文](README.zh.md) · [Zhihu article](articles/zhihu/2026-11-12-three-sentence-emails-fast-bad-news.md) · [Get started](#quick-start) · [Communication workflow](#decision-workflow) · [Architecture](#agent-skill-architecture) · [Examples](EXAMPLES.md) · [Attribution](skills/elon-musk-communication/references/evidence-and-attribution.md)
 
 > **Make the next decision obvious.** Communicate what happened, what you recommend, and exactly what needs to happen next—while escalating material bad news immediately.
 
