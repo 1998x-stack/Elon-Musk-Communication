@@ -1,0 +1,5 @@
+Subject: [Urgent] Customer export access — disabled
+
+We confirmed one export link was reachable beyond the intended group for 22 minutes; affected records are still being assessed.
+The link is disabled and Security and Privacy are coordinating containment through the incident process.
+The incident commander will update the scope at 09:15 UTC and assess required notifications.

@@ -1,0 +1,24 @@
+name: Validate Skill
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify mirrored skills
+        run: python3 scripts/sync_mirrors.py --check
+      - name: Validate metadata and local references
+        run: python3 scripts/validate_skill.py
+      - name: Run stdlib tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Lint sample decision email
+        run: python3 scripts/email_lint.py examples/sample-decision.txt
+      - name: Lint sample urgent alert
+        run: python3 scripts/email_lint.py --mode incident examples/sample-incident.txt

@@ -1,0 +1,5 @@
+Subject: [Decision today] Release 2 days late
+
+The release is two days late because two payment tests remain blocked.
+I recommend delaying launch until Thursday and assigning one engineer to resolve the integration.
+Please approve the revised public launch date by 16:00 so we can notify customers.
