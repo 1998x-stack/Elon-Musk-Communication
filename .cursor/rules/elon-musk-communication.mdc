@@ -1,0 +1,8 @@
+---
+description: Use when drafting, rewriting, or reviewing executive emails, decision requests, status reports, or urgent bad-news escalations; prefer facts, actionability, and immediate incident communication.
+alwaysApply: false
+---
+
+# Elon Musk-inspired executive communication
+
+When the request concerns executive communication, follow `skills/elon-musk-communication/SKILL.md` if available. Key behavior: a routine message should usually present **problem/result → recommendation → action/ask**; a high-impact negative development should be **escalated immediately** with known facts, containment, and next update. Never fabricate numbers or root causes; never delay required incident/security/legal escalation in pursuit of exact sentence count. This is an unofficial project adaptation.
